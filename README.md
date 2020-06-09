@@ -12,4 +12,5 @@ BedwarsStats is a program to be used alongside Minecraft on the Hypixel network.
 # Got any questions?
 Be sure to report any issues in the issues tab.
 
+[![Bedwars Stats Support](https://discordapp.com/api/guilds/719879915599560784/embed.png?style=banner3)](https://discord.gg/kjeXyuc)
 [![The Outback Shack](https://discordapp.com/api/guilds/364790259608846337/embed.png?style=banner3)](https://discord.gg/2gwFKq6)
