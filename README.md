@@ -7,7 +7,7 @@ Contribs:
  - [AnotherZane](https://github.com/AnotherZane/)
 
 # What is BedwarsStats?
-BedwarsStats is a program to be used alongside Minecraft on the Hypixel network. It helps you see stars of whomever you want and of people in your lobby.
+BedwarsStats is a program to be used alongside Minecraft on the Hypixel network. It helps you see bedwars stats of whoever you want and of people in your lobby. It does this efficiently by polling minecraft logs non-intrusively.
 
 # Got any questions?
 Be sure to report any issues in the issues tab.
