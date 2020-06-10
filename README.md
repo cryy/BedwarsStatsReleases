@@ -1,4 +1,4 @@
-# BedwarsStatsReleases
+# <img src="media/bws.png" alt="BedwarsStats" align="center" />
 Releases of the BedwarsStats project made with .NET Core.
 
 Contribs:
