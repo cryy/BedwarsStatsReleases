@@ -1,5 +1,5 @@
 # <img src="media/bws.png" alt="BedwarsStats" align="center" />
-Releases of the BedwarsStats project made with .NET Core.
+Releases of the BedwarsStats project made with.
 
 Contribs:
  - [cryy](https://github.com/cryy/)
