@@ -3,11 +3,14 @@
 BedwarsStats is licensed to You (End-User) and is only licensed for use under these Terms and Conditions.
 
 By continuing, You agree that by using this application, you have read, understood, and agreed to be bound by all of these Terms and Conditions.
-IF YOU DO NOT AGREE WITH ALL OF THESE TERMS OF USE, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SITE AND YOU MUST DISCONTINUE USE IMMEDIATELY.
+
+IF YOU DO NOT AGREE WITH ALL OF THESE TERMS OF USE, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE APP AND YOU MUST DISCONTINUE USE IMMEDIATELY.
 
 We reserve the right, in our sole discretion, to make changes or modifications to these Terms of Use at any time and for any reason.
+
 We will alert you about any changes by updating the "Last updated" date of these Terms of Use, and you waive any right to receive
 specific notice of each such change. It is your responsibility to periodically review these Terms of Use to stay informed of updates.
+
 You will be subject to, and will be deemed to have been made aware of and to have accepted, the changes in any revised Terms of Use
 by your continued use of the Site after the date such revised Terms of Use are posted.<br /><br />
 
@@ -22,12 +25,13 @@ whatsoever, without our express prior written permission.<br /><br />
 
 <b>USER REPRESENTATIONS</b><br />
 By using the application, you represent and warrant that:
-(1) You have the legal capacity and you agree to comply with these Terms of Use; 
-(2) You are not a minor in the jurisdiction in which you reside; 
-(3) You will not use the application for any illegal or unauthorized purpose; 
-(4) Your use of the application will not violate any applicable law or regulation; 
-(5) You will not (and not attempt to) use this Application for any use other than those explicitly intended; 
-(6) You will not (and not attempt to) replicate this application or its source code.<br /><br />
+
+1. You have the legal capacity and you agree to comply with these Terms of Use; 
+2. You are not a minor in the jurisdiction in which you reside; 
+3. You will not use the application for any illegal or unauthorized purpose; 
+4. Your use of the application will not violate any applicable law or regulation; 
+5. You will not (and not attempt to) use this Application for any use other than those explicitly intended; 
+6. You will not (and not attempt to) replicate this application or its source code.<br /><br />
 
 <b>ACCOUNTABILITY</b><br />
 We reserve the right to (at any time) revoke access to the application and to stop updating the application. We will not held accountable
