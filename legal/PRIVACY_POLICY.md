@@ -33,4 +33,3 @@ page periodically to view changes to our privacy policy.<br /><br />
 
 <b>INQUIRIES</b><br />
 Any questions or requests regarding privacy should be directed to our support section in our Discord Server.
-</p>
